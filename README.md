@@ -8,6 +8,10 @@ Align selected vertices to same line with active vertex and selected axis.
 
 After you've installed the plugin you'll find it from **`"Edit Mode" > "Mesh" > Vertex Align (X/Y/Z)`**
 
+#### Install
+
+Just download **`"Blender_Vertex_Align.py`** and install through **`"User Preferences" > "Add-ons" > "Install from File..."`**
+
 #### Shortcuts
 
 Command          | Shortcut                             | Description
