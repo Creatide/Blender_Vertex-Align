@@ -18,7 +18,7 @@ Command          | Shortcut                             | Description
 
 #### Example
 
-![Example 1](https://github.com/Creatide/Blender_Vertex-Align/blob/Vertex_Align_Example_01.gif)
+![Example 1](https://github.com/Creatide/Blender_Vertex-Align/blob/master/Vertex_Align_Example_01.gif)
 
 
 ### About
